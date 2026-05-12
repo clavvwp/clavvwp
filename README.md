@@ -1,52 +1,59 @@
 <div align="center">
+
+## 🌌 Anime Streaming Platform
+
+> Modern anime website with cyberpunk vibes.
+
+## 🚀 Ultimate Portfolio Website
+
+> Ultra animated portfolio with hologram effects.
+
 ---
 
-# 🌠 Visitor Count
+# 🎧 NOW PLAYING
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://novatorem.vercel.app/api/spotify" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 👀 VISITOR COUNTER
 
 <div align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ TERMINAL QUOTES
 
-```txt
-I turn coffee ☕ into code 💻
+```bash
+> wake up
+> drink coffee ☕
+> open vscode 💻
+> build the future 🚀
 ```
 
-```txt
-Anime + Music + Coding = Perfect Night 🌌
+```bash
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
 ```
 
 ---
 
 <div align="center">
 
-## 🌙 Thanks For Visiting My Profile
+# 🌙 THANKS FOR VISITING ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&animation=twinkling" />
 
 </div>
