@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+---
 
-<!--
-**clavvwp/clavvwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌠 Visitor Count
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+I turn coffee ☕ into code 💻
+```
+
+```txt
+Anime + Music + Coding = Perfect Night 🌌
+```
+
+---
+
+<div align="center">
+
+## 🌙 Thanks For Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+
+</div>
