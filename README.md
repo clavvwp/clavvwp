@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+FULLSTACK+DEVELOPER;🌌+ANIME+CYBERPUNK+VIBES;🚀+BUILDING+COOL+THINGS;💻+WELCOME+TO+MY+DIGITAL+WORLD" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=+ASPIRING+DEVELOPER;🌌+Software+Engineering+Students;🚀+BUILDING+COOL+THINGS;💻+WELCOME+TO+MY+DIGITAL+WORLD" />
 
 </div>
 
@@ -13,10 +13,17 @@
 # 🌌 ABOUT ME
 
 ```yaml
-Name: clavvwp
-Focus: Web Development + AI
-Style: Cyberpunk Neon
-Vibe: Anime + Futuristic
+Name: Clavinova Verdinand Wijaya Putra
+Nickname: Clavin
+Role: Aspiring Developer
+Focus: Web Development + UI Design
+Currently Learning:
+  - Php
+  - JavaScript
+  - React js
+  - TailwindCSS
+Hobby: I like playing games, listening to music 
+Goal: Building cool digital experiences 
 ```
 
 ---
@@ -25,7 +32,11 @@ Vibe: Anime + Futuristic
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,firebase,tailwind,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </div>
 
@@ -72,15 +83,13 @@ Vibe: Anime + Futuristic
 
 ---
 
-# ⚡ TERMINAL
+# SYSTEM STATUS
 
 ```bash
-while(alive){
-   eat();
-   code();
-   sleep();
-   repeat();
-}
+> Status: Online
+> Mode: Learning & Building
+> Energy: Coffee Powered ☕
+> Mission: Create Cool Things 🚀
 ```
 
 ---
