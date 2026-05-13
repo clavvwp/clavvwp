@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20TO%20CLAV%20PROFILE&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=45" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=⚡+FULLSTACK+DEVELOPER;🌌+ANIME+CYBERPUNK+VIBES;🚀+BUILDING+COOL+THINGS;💻+WELCOME+TO+MY+DIGITAL+WORLD" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,100:2575fc&text=WELCOME%20TO%20CLAV%20PROFILE&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+FULLSTACK+DEVELOPER;🌌+ANIME+CYBERPUNK+VIBES;🚀+BUILDING+COOL+THINGS;💻+WELCOME+TO+MY+DIGITAL+WORLD" />
 
 </div>
 
@@ -21,7 +17,6 @@ Name: clavvwp
 Focus: Web Development + AI
 Style: Cyberpunk Neon
 Vibe: Anime + Futuristic
-Learning: React • Next.js • AI
 ```
 
 ---
@@ -30,7 +25,7 @@ Learning: React • Next.js • AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,firebase,tailwind,docker,figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,firebase,tailwind,docker,git,github,vscode" />
 
 </div>
 
@@ -40,9 +35,11 @@ Learning: React • Next.js • AI
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clavvwp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=clavvwp&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clavvwp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clavvwp&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -52,7 +49,7 @@ Learning: React • Next.js • AI
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=clavvwp&theme=tokyonight&hide_border=true&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=clavvwp&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -62,13 +59,13 @@ Learning: React • Next.js • AI
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=clavvwp&theme=radical&no-frame=true&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=clavvwp&theme=tokyonight&no-frame=true&margin-w=10" />
 
 </div>
 
 ---
 
-# ⚡ TERMINAL QUOTES
+# ⚡ TERMINAL
 
 ```bash
 while(alive){
@@ -79,36 +76,10 @@ while(alive){
 }
 ```
 
-```bash
-> wake up ☀️
-> open vscode 💻
-> build something awesome 🚀
-```
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/clavvwp">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,100:2575fc" />
 
 </div>
