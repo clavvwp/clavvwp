@@ -35,11 +35,9 @@ Vibe: Anime + Futuristic
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=clavvwp&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=clavvwp&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
 
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clavvwp&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clavvwp&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 
 </div>
 
