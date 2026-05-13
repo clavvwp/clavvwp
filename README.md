@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20TO%20MY%20PROFILE&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20TO%20Clav%20PROFILE&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=45" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+FULLSTACK+DEVELOPER;🌌+ANIME+CYBERPUNK+VIBES;🚀+BUILDING+COOL+THINGS;💻+WELCOME+TO+MY+DIGITAL+WORLD" />
 
