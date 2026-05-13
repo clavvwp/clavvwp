@@ -28,7 +28,7 @@ Goal: Building cool digital experiences
 
 ---
 
-# ⚡ TECH STACK
+# TECH STACK
 
 <div align="center">
 
@@ -41,9 +41,6 @@ Goal: Building cool digital experiences
 </div>
 
 ---
-
-# 📊 GITHUB STATS
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clavvwp&show_icons=true&theme=tokyonight" />
@@ -52,8 +49,6 @@ Goal: Building cool digital experiences
 
 </div>
 
-
-# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
