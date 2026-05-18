@@ -27,7 +27,7 @@ Location: Indonesia 🇮🇩
 🔥 TECH STACK
 <div align="center">
 <!-- ANIMATED SKILL ICONS -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,github,vscode,git,nodejs,npm&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,lararavel,tailwind,github,vscode,git,nodejs,npm&perline=6" />
 
 
 <!-- COLORFUL BADGES -->
