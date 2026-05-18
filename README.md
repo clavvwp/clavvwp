@@ -1,96 +1,132 @@
 <div align="center">
+<!-- HEADER ANIMATED WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff00cc,50:333399,100:00ffcc&text=CLAVINOVA%20VERDINAND&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff&desc=ASPIRING%20DEVELOPER%20%7C%20UI%20DESIGNER&descAlign=50&descAlignY=65&descSize=20" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,100:2575fc&text=WELCOME%20TO%20CLAV%20PROFILE&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff" />
+<!-- TYPING ANIMATION - MULTI LINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+BUILDING+COOL+THINGS;💻+WEB+DEVELOPMENT+ENTHUSIAST;🎨+UI%2FUX+DESIGNER;☕+COFFEE+POWERED+CODER;🌟+WELCOME+TO+MY+DIGITAL+WORLD" />
 
-<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=+ASPIRING+DEVELOPER;🌌+Software+Engineering+Students;🚀+BUILDING+COOL+THINGS;💻+WELCOME+TO+MY+DIGITAL+WORLD" />
-
+<!-- ANIMATED VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=clavvwp&label=PROFILE%20VIEWS&color=ff00cc&style=for-the-badge" alt="Profile Views" />
 </div>
-
----
-
-# 🌌 ABOUT ME
-
-```yaml
+🌌 ABOUT ME
+yaml
+Copy
 Name: Clavinova Verdinand Wijaya Putra
-Nickname: Clavin
-Role: Aspiring Developer
-Focus: Web Development + UI Design
+Nickname: Clavin 😎
+Role: Aspiring Developer & UI Designer
+Focus: Web Development + UI/UX Design
 Currently Learning:
-  - Php
-  - JavaScript
-  - React js
-  - TailwindCSS
-Hobby: I like playing games, listening to music 
-Goal: Building cool digital experiences 
-```
-
----
-
-# TECH STACK
-
+  - ⚡ PHP (Laravel)
+  - ⚡ JavaScript (ES6+)
+  - ⚡ React.js
+  - ⚡ TailwindCSS
+Hobby: 🎮 Gaming, 🎵 Listening to Music, ☕ Drinking Coffee
+Goal: Building cool digital experiences that wow people!
+Location: Indonesia 🇮🇩
+🔥 TECH STACK
 <div align="center">
+<!-- ANIMATED SKILL ICONS -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,github,vscode,git,nodejs,npm&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,github,vscode" />
 
-<br><br>
-
+<!-- COLORFUL BADGES -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
----
+📊 GITHUB STATS
 <div align="center">
+<!-- STATS CARDS WITH COOL THEMES -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clavvwp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clavvwp&layout=compact&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clavvwp&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clavvwp&layout=compact&theme=tokyonight" />
-
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=clavvwp&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF00CC&ring=00F7FF&currStreakLabel=FF00CC" />
 </div>
-
-
+🐍 CONTRIBUTION SNAKE
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/clavvwp/clavvwp/output/github-contribution-grid-snake-dark.svg" />
-
+<!-- ANIMATED SNAKE - DARK MODE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clavvwp/clavvwp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clavvwp/clavvwp/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/clavvwp/clavvwp/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
-
----
-
-# 🔥 STREAK STATS
-
+🏆 TROPHIES
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=clavvwp&theme=tokyonight&hide_border=true" />
-
+<!-- ANIMATED TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=clavvwp&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </div>
-
----
-
-# 🏆 TROPHIES
-
+📈 ACTIVITY GRAPH
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=clavvwp&theme=tokyonight&no-frame=true&margin-w=10" />
-
+<!-- GITHUB ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clavvwp&theme=dracula&hide_border=true&area=true&custom_title=Clavin's%20Contribution%20Graph" />
 </div>
-
----
-
-# SYSTEM STATUS
-
-```bash
-> Status: Online
-> Mode: Learning & Building
-> Energy: Coffee Powered ☕
-> Mission: Create Cool Things 🚀
-```
-
----
-
+🎵 NOW PLAYING
 <div align="center">
+<!-- SPOTIFY NOW PLAYING -->
+<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ff00cc" />
+</div>
+💬 RANDOM DEV QUOTE
+<div align="center">
+<!-- RANDOM QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+🎯 CURRENTLY WORKING ON
+<div align="center">
+<!-- PINNED REPO CARDS (GANTI DENGAN REPO LO) -->
+<a href="https://github.com/clavvwp/nama-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clavvwp&repo=nama-repo-1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/clavvwp/nama-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clavvwp&repo=nama-repo-2&theme=radical&hide_border=true" />
+</a>
+</div>
+🌐 CONNECT WITH ME
+<div align="center">
+<!-- SOCIAL BADGES -->
+<a href="https://instagram.com/clavvwp" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/clavinova-verdinand" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:clavinovaverdinand@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/clavvwp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+⚡ SYSTEM STATUS
+<div align="center">
+bash
+Copy
+> Status: 🟢 Online & Coding
+> Mode: 🚀 Learning & Building Mode
+> Energy: ☕ Coffee Powered (99%)
+> Mood: 🔥 Ready to Create Something Awesome!
+> Mission: Build Cool Things That Matter 🎯
+> Current Track: 🎵 Coding Vibes
+</div>
+<div align="center">
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff00cc,50:333399,100:00ffcc" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,100:2575fc" />
+<!-- ANIMATED THANK YOU -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING!+🙌;STAR+MY+REPOS+IF+YOU+LIKE+THEM!+⭐;LET'S+BUILD+SOMETHING+AMAZING!+🚀" />
 
+
+<!-- FUN GIF -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </div>
