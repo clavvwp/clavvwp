@@ -27,7 +27,31 @@ Location: Indonesia 🇮🇩
 🔥 TECH STACK
 <div align="center">
 <!-- ANIMATED SKILL ICONS -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,lararavel,tailwind,github,vscode,git,nodejs,npm&perline=6" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="TailwindCSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm" />
+</p>
 
 
 <!-- COLORFUL BADGES -->
@@ -74,8 +98,17 @@ Location: Indonesia 🇮🇩
 </div>
 🎵 NOW PLAYING
 <div align="center">
-<!-- SPOTIFY NOW PLAYING -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ff00cc" />
+<!-- MUSIC VIBES - TIDAK ADA GAMBAR BROKEN -->
+🎧 Vibing to coding tunes... 🎶
+
+plain
+Copy
+🎵 Track: Lo-Fi Coding Beats
+🎤 Artist: Chill Developer
+⏱️  3:45 ───⚪─────── 5:12
+
+<!-- ANIMATED MUSIC EQUALIZER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1000&pause=200&color=FF00CC&center=true&vCenter=true&width=300&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▁▂▃▄▅▆▇█▇▆▅;▃▂▁▂▃▄▅▆▇█▇▆;▄▃▂▁▂▃▄▅▆▇█▇;▅▄▃▂▁▂▃▄▅▆▇█" />
 </div>
 💬 RANDOM DEV QUOTE
 <div align="center">
@@ -84,13 +117,40 @@ Location: Indonesia 🇮🇩
 </div>
 🎯 CURRENTLY WORKING ON
 <div align="center">
-<!-- PINNED REPO CARDS (GANTI DENGAN REPO LO) -->
-<a href="https://github.com/clavvwp/nama-repo-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clavvwp&repo=nama-repo-1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/clavvwp/nama-repo-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clavvwp&repo=nama-repo-2&theme=radical&hide_border=true" />
-</a>
+<!-- TIDAK ADA GAMBAR BROKEN - HANYA TEXT DENGAN ICON -->
+<table>
+  <tr>
+    <td align="center" width="200">
+      <h3>🚀 Project 1</h3>
+      <p>Building awesome web apps with React & Laravel</p>
+      <p>⚡ In Progress</p>
+    </td>
+    <td align="center" width="200">
+      <h3>🎨 Project 2</h3>
+      <p>Designing UI/UX with Figma & TailwindCSS</p>
+      <p>🎨 Designing</p>
+    </td>
+    <td align="center" width="200">
+      <h3>📚 Learning</h3>
+      <p>Mastering JavaScript ES6+ & React Hooks</p>
+      <p>📖 Studying</p>
+    </td>
+  </tr>
+</table>
+
+<!-- PROGRESS BARS -->
+🚀 Web App Development
+plain
+Copy
+████████████████████░░░░░  80%
+🎨 UI/UX Design
+plain
+Copy
+██████████████░░░░░░░░░░░  60%
+📚 JavaScript Mastery
+plain
+Copy
+██████████░░░░░░░░░░░░░░░  40%
 </div>
 🌐 CONNECT WITH ME
 <div align="center">
