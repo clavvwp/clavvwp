@@ -13,20 +13,20 @@
 yaml
 Copy
 Name: Clavinova Verdinand Wijaya Putra
-Nickname: Clavin 😎
+Nickname: Clavin
 Role: Aspiring Developer & UI Designer
 Focus: Web Development + UI/UX Design
 Currently Learning:
-  - ⚡ PHP (Laravel)
-  - ⚡ JavaScript (ES6+)
-  - ⚡ React.js
-  - ⚡ TailwindCSS
-Hobby: 🎮 Gaming, 🎵 Listening to Music, ☕ Drinking Coffee
+  - PHP (Laravel)
+  - JavaScript (ES6+)
+  - React.js
+  - TailwindCSS
+Hobby: Gaming, Listening to Music, Drinking Coffee
 Goal: Building cool digital experiences that wow people!
-Location: Indonesia 🇮🇩
+Location: Indonesia
 🔥 TECH STACK
 <div align="center">
-<!-- ANIMATED SKILL ICONS -->
+<!-- SKILL ICONS -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   &nbsp;
