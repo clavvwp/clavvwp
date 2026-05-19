@@ -1,6 +1,6 @@
 <div align="center">
 <!-- HEADER ANIMATED WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff00cc,50:333399,100:00ffcc&text=CLAVINOVA%20VERDINAND&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff&desc=ASPIRING%20DEVELOPER%20%7C%20UI%20DESIGNER&descAlign=50&descAlignY=65&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff00cc,50:333399,100:00ffcc&text=CLAVINOVA%20V.W.P&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff&desc=ASPIRING%20DEVELOPER%20%7C%20UI%20DESIGNER&descAlign=50&descAlignY=65&descSize=20" />
 
 <!-- TYPING ANIMATION - MULTI LINE -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+BUILDING+COOL+THINGS;💻+WEB+DEVELOPMENT+ENTHUSIAST;🎨+UI%2FUX+DESIGNER;☕+COFFEE+POWERED+CODER;🌟+WELCOME+TO+MY+DIGITAL+WORLD" />
