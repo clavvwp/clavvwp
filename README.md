@@ -116,7 +116,7 @@ Location: Indonesia
     </td>
     <td align="center" width="200">
       <h3>📚 Learning</h3>
-      <p>Mastering JavaScript ES6+ & React Hooks</p>
+      <p>Mastering JavaScript</p>
       <p>📖 Studying</p>
     </td>
   </tr>
