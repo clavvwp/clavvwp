@@ -107,7 +107,7 @@ Location: Indonesia
     <td align="center" width="200">
       <h3>🚀 Project 1</h3>
       <p>Building awesome web apps with React & Laravel</p>
-      <p>⚡ In Progress</p>
+      <p>⚡ In-Progress</p>
     </td>
     <td align="center" width="200">
       <h3>🎨 Project 2</h3>
