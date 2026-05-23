@@ -97,20 +97,6 @@ Location: Indonesia
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=clavvwp&theme=dracula&hide_border=true&area=true&custom_title=Clavin's%20Contribution%20Graph" />
 </div>
 
-## 🎵 NOW PLAYING
-
-<div align="center">
-
-<!-- SPOTIFY NOW PLAYING WIDGET -->
-<a href="https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ff00cc" alt="Spotify Now Playing" />
-</a>
-
-<br><br>
-
-<!-- CUSTOM MUSIC DISPLAY -->
-💬 RANDOM DEV QUOTE
-<div align="center">
 <!-- RANDOM QUOTE -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
