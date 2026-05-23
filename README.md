@@ -102,7 +102,6 @@ Location: Indonesia
 </div>
 🎯 CURRENTLY WORKING ON
 <div align="center">
-<!-- TIDAK ADA GAMBAR BROKEN - HANYA TEXT DENGAN ICON -->
 <table>
   <tr>
     <td align="center" width="200">
