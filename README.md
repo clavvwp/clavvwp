@@ -1,5 +1,5 @@
 <div align="center">
-<!-- HEADER ANIMATED WAVE -->
+<!-- HEADER ANIMATED WAVE --> cekk
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff00cc,50:333399,100:00ffcc&text=CLAVINOVA%20V.W.P&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff&desc=ASPIRING%20DEVELOPER%20%7C%20UI%20DESIGNER&descAlign=50&descAlignY=65&descSize=20" />
 
 <!-- TYPING ANIMATION - MULTI LINE -->
