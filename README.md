@@ -10,12 +10,15 @@
 <!-- ANIMATED VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=clavvwp&label=PROFILE%20VIEWS&color=ff00cc&style=for-the-badge" alt="Profile Views" />
 </div>
-🌌 ABOUT ME
+🌌 ABOUT ME <br>
 Name: Clavinova Verdinand Wijaya Putra
 <br>
 Nickname: Clavin
+<br>
 Role: Aspiring Developer & UI Designer
+<br>
 Focus: Web Development + UI/UX Design
+<br>
 Currently Learning:
   - PHP (Laravel)
   - JavaScript (ES6+)
