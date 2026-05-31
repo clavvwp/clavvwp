@@ -1,4 +1,5 @@
-<div align="center">cekkkkkkkkk
+<div align="center">cekkkkkkkk
+  
 <!-- HEADER ANIMATED WAVE --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff00cc,50:333399,100:00ffcc&text=CLAVINOVA%20V.W.P&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=45&fontColor=ffffff&desc=ASPIRING%20DEVELOPER%20%7C%20UI%20DESIGNER&descAlign=50&descAlignY=65&descSize=20" />
 
@@ -10,9 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=clavvwp&label=PROFILE%20VIEWS&color=ff00cc&style=for-the-badge" alt="Profile Views" />
 </div>
 🌌 ABOUT ME
-yaml
-Copy
 Name: Clavinova Verdinand Wijaya Putra
+<br>
 Nickname: Clavin
 Role: Aspiring Developer & UI Designer
 Focus: Web Development + UI/UX Design
