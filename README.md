@@ -27,6 +27,7 @@ Currently Learning:
 Hobby: Gaming, Listening to Music, Drinking Coffee
 Goal: Building cool digital experiences that wow people!
 Location: Indonesia
+<br>
 🔥 TECH STACK
 <div align="center">
 <!-- SKILL ICONS -->
