@@ -29,3 +29,20 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+
+  commit-strike:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update commit strike file
+        run: |
+          echo "Daily commit strike generated on $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > commit-strike.txt
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🔥 Daily commit strike"
+          add: "commit-strike.txt"
